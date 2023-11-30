@@ -1,0 +1,12 @@
+body{
+    background-color: #f3f3f38e;
+}
+img{
+    border: 1px solid rgb(44, 44, 44);
+    border-radius: 15px;
+}
+
+.price{
+    /* color: #194aa6; */
+    font-size: 1.2rem;
+}
